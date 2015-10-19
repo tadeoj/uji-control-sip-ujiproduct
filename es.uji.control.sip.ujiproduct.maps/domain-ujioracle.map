@@ -1,0 +1,4 @@
+feature@es.uji.control.domain.ujioracle.feature=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.feature
+
+plugin@es.uji.control.domain.ujioracle=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle
+plugin@es.uji.control.domain.ujioracle.preferences=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.preferences
