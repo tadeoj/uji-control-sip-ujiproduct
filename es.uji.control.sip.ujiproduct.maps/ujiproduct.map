@@ -1,5 +1,2 @@
 feature@es.uji.control.sip.ujiproduct.feature=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-sip-ujiproduct,path=es.uji.control.sip.ujiproduct.feature
 feature@es.uji.control.sip.ujiproduct.target.feature=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-sip-ujiproduct.git,path=es.uji.control.sip.ujiproduct.target.feature
-
-plugin@es.uji.control.sip.ujiproduct.releng=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-sip-ujiproduct.git,path=es.uji.control.sip.ujiproduct.releng
-plugin@es.uji.control.sip.ujiproduct.maps=GIT,tag=v20151019-1300,repo=git@github.com:tadeoj/uji-control-sip-ujiproduct.git,path=es.uji.control.sip.ujiproduct.maps
