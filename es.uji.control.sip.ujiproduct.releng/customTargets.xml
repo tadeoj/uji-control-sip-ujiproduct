@@ -87,7 +87,7 @@
 	<target name="postSetup">
 		<ant antfile="${genericTargets}" target="fetchElement">
 			<property name="type" value="plugin" />
-			<property name="id" value="es.uji.control.scu.spaces.ui" />
+			<property name="id" value="es.uji.control.sip.ui" />
 		</ant>
 		<antcall target="getBaseComponents" />
 	</target>
