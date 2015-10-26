@@ -17,15 +17,20 @@
 	<!-- <get src="http://devel.uji.es/eclipse/target/indigo_v2.zip" dest="${buildDirectory}/../temp-base.zip" /> -->
 
 	<target name="getBaseComponents" depends="checkLocalBase" unless="skipBase">
-		<exec executable="git" dir="${buildDirectory}">
-			<arg line="archive --format=zip" />
-			<arg line="--output=${buildDirectory}/base.zip" />
-			<arg line="--remote=${baseRepo}" />
+		<mkdir dir="${baseTempDirectory}" />
+		<exec executable="git" dir="${baseTempDirectory}">
+			<arg line="clone" />
+			<arg line="${baseRepo}" />
+		</exec>
+		<exec executable="git" dir="${baseTempDirectory}">
+			<arg line="checkout" />
 			<arg line="${baseCheckoutTag} ${basePath}" />
 		</exec>
-		<unzip src="${buildDirectory}/base.zip" dest="${buildDirectory}">
-			<cutdirsmapper dirs="1" />
-		</unzip>
+		<copy todir="${buildDirectory}">
+			<fileset dir="${baseTempDirectory}" />
+		</copy>
+		<copydir src="${baseTempDirectory}" dest="${buildDirectory}" />
+		<delete dir="${baseTempDirectory}" />
 	</target>
 
 	<target name="checkLocalBase">
@@ -38,13 +43,19 @@
 	<!-- ===================================================================== -->
 	<target name="getMapFiles" depends="checkLocalMaps" unless="skipMaps">
 		<mkdir dir="${buildDirectory}/maps" />
-		<exec executable="git" dir="${buildDirectory}/maps">
-			<arg line="archive --format=tar" />
-			<arg line="--output=${buildDirectory}/maps/maps.tar" />
-			<arg line="--remote=${mapsRepo}" />
+		<mkdir dir="${tempMapsDirectory}" />
+		<exec executable="git" dir="${tempMapsDirectory}">
+			<arg line="clone" />
+			<arg line="${mapsRepo}" />
+		</exec>
+		<exec executable="git" dir="${tempMapsDirectory}">
+			<arg line="checkout" />
 			<arg line="${mapsCheckoutTag} ${mapsPath}" />
 		</exec>
-		<untar src="${buildDirectory}/maps/maps.tar" dest="${buildDirectory}/maps" />
+		<copy todir="${buildDirectory}/maps">
+			<fileset dir="${tempMapsDirectory}" />
+		</copy>
+		<delete dir="${tempMapsDirectory}" />
 	</target>
 
 	<target name="checkLocalMaps">
