@@ -1,3 +1,3 @@
-feature@es.uji.control.domain.feature=GIT,tag=v20151022-0915,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain.feature
+feature@es.uji.control.domain.feature=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain.feature
 
-plugin@es.uji.control.domain=GIT,tag=v20151022-0915,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain
+plugin@es.uji.control.domain=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain

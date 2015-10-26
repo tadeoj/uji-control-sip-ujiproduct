@@ -1,4 +1,4 @@
-feature@es.uji.control.domain.ujioracle.feature=GIT,tag=v20151022-0915,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.feature
+feature@es.uji.control.domain.ujioracle.feature=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.feature
 
-plugin@es.uji.control.domain.ujioracle=GIT,tag=v20151022-0915,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle
-plugin@es.uji.control.domain.ujioracle.preferences=GIT,tag=v20151022-0915,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.preferences
+plugin@es.uji.control.domain.ujioracle=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle
+plugin@es.uji.control.domain.ujioracle.preferences=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.preferences

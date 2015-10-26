@@ -1,3 +1,7 @@
-TAG=v20151022-0915
+TAG=v20151026-1245
 cd /$HOME/releng
-git archive --remote=git@github.com:tadeoj/uji-control-sip-ujiproduct.git --format=tar $TAG es.uji.control.sip.ujiproduct.releng | tar xvf -
+git clone git@github.com:tadeoj/uji-control-sip-ujiproduct.git
+cd uji-control-sip-ujiproduct
+git archive --format=tar $TAG es.uji.control.sip.ujiproduct.releng | (cd /$HOME/releng && tar xvf -)
+cd ..
+rm -rf uji-control-sip-ujiproduct
