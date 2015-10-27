@@ -17,20 +17,15 @@
 	<!-- <get src="http://devel.uji.es/eclipse/target/indigo_v2.zip" dest="${buildDirectory}/../temp-base.zip" /> -->
 
 	<target name="getBaseComponents" depends="checkLocalBase" unless="skipBase">
-		<mkdir dir="${baseTempDirectory}" />
-		<exec executable="git" dir="${baseTempDirectory}">
-			<arg line="clone" />
-			<arg line="${baseRepo}" />
-		</exec>
-		<exec executable="git" dir="${baseTempDirectory}">
-			<arg line="checkout" />
+		<exec executable="git" dir="${buildDirectory}">
+			<arg line="archive --format=zip" />
+			<arg line="--output=${buildDirectory}/base.zip" />
+			<arg line="--remote=${baseRepo}" />
 			<arg line="${baseCheckoutTag} ${basePath}" />
 		</exec>
-		<copy todir="${buildDirectory}">
-			<fileset dir="${baseTempDirectory}" />
-		</copy>
-		<copydir src="${baseTempDirectory}" dest="${buildDirectory}" />
-		<delete dir="${baseTempDirectory}" />
+		<unzip src="${buildDirectory}/base.zip" dest="${buildDirectory}">
+			<cutdirsmapper dirs="1" />
+		</unzip>
 	</target>
 
 	<target name="checkLocalBase">
