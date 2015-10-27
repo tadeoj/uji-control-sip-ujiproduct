@@ -24,4 +24,8 @@
          id="es.uji.control.sip.feature"
          version="1.0.0.qualifier"/>
 
+   <includes
+         id="org.eclipse.equinox.executable"
+         version="3.6.200.v20150602-1417"/>
+
 </feature>

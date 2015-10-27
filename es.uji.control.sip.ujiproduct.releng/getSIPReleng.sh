@@ -1,4 +1,4 @@
-TAG=v20151027-1230
+TAG=v20151027-1300
 cd /$HOME/releng
 git clone git@github.com:tadeoj/uji-control-sip-ujiproduct.git
 cd uji-control-sip-ujiproduct
