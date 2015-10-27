@@ -18,10 +18,10 @@
 
    <includes
          id="es.uji.control.sip.ujiproduct.target.feature"
-         version="0.0.0"/>
+         version="1.0.0.qualifier"/>
 
    <includes
          id="es.uji.control.sip.feature"
-         version="0.0.0"/>
+         version="1.0.0.qualifier"/>
 
 </feature>

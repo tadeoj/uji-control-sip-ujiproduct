@@ -20,336 +20,336 @@
          id="org.eclipse.emf"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.6.0.v20150601-0402"
          unpack="false"/>
 
    <plugin
          id="javax.servlet"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.1.0.v201410161800"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.net"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.2.300.v20141118-1725"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.osgi"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.10.100.v20150529-1857"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.persistence.jpa"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.6.0.v20150309-bf26070"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.expressions"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.5.0.v20150421-2214"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.persistence.core"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.6.0.v20150309-bf26070"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.preferences"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.5.300.v20150408-1437"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.emf.common"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.11.0.v20150512-0501"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.commands"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.7.0.v20150422-0725"
          unpack="false"/>
 
    <plugin
          id="ch.qos.logback.core"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.3"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.log"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.2.400.v20150430-1834"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.jobs"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.7.0.v20150330-2103"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.emf.ecore"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.11.0.v20150512-0501"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.contenttype"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.5.0.v20150421-2214"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.databinding.property"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.5.0.v20150422-0725"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.common"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.7.0.v20150402-1709"
          unpack="false"/>
 
    <plugin
          id="com.ibm.icu"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="54.1.1.v201501272100"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.variables"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.2.800.v20130819-1716"
          unpack="false"/>
 
    <plugin
          id="slf4j.api"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.7.12"
          unpack="false"/>
 
    <plugin
          id="ch.qos.logback.classic"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.3"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.databinding"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.5.0.v20150422-0725"
          unpack="false"/>
 
    <plugin
          id="javax.mail"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.4.0.v201005080615"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.app"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.3.300.v20150423-1356"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.ui.workbench"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.107.0.v20150510-1732"
          unpack="false"/>
 
    <plugin
          id="org.apache.commons.logging"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.1.v201101211721"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.jface.databinding"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.7.0.v20150406-2148"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.databinding.beans"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.3.0.v20150422-0725"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.emf.ecore.xmi"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.11.0.v20150512-0501"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.help"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.6.0.v20130326-1254"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.swt"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.104.0.v20150528-0211"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.runtime"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.11.0.v20150405-1723"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.registry"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.6.0.v20150318-1503"
          unpack="false"/>
 
    <plugin
          id="org.easymock"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.4.0.v20090202-0900"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.ui"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.107.0.v20150507-1945"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.core.databinding.observable"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.5.0.v20150422-0725"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.osgi.services"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.5.0.v20150519-2006"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.persistence.antlr"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.2.0.v201302191141"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.security"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.2.100.v20150423-1356"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.persistence.asm"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="5.0.1.v201405080102"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.jface"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.11.0.v20150602-1400"
          unpack="false"/>
 
    <plugin
          id="javax.persistence"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.1.0.v201304241213"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.ds"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.4.300.v20150423-1356"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.event"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.3.100.v20140115-1647"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.util"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.0.500.v20130404-1337"
          unpack="false"/>
 
    <plugin
          id="javax.activation"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.0.v201108011116"
          unpack="false"/>
 
    <plugin
          id="derby"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="10.11.1000001.1616546"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.launcher"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.3.100.v20150511-1540"
          unpack="false"/>
 
    <plugin
@@ -359,7 +359,7 @@
          arch="x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.104.0.v20150528-0211"
          fragment="true"
          unpack="false"/>
 
@@ -370,7 +370,7 @@
          arch="x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.0.100.v20130327-1442"
          fragment="true"
          unpack="false"/>
 
@@ -381,35 +381,35 @@
          arch="x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.300.v20150602-1417"
          fragment="true"/>
 
    <plugin
          id="de.feig"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="4.5.4"
          unpack="false"/>
 
    <plugin
          id="oracle.jdbc.driver"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.0.0.201406031449"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.persistence.jpa.jpql"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.6.0.v20150309-bf26070"
          unpack="false"/>
 
    <plugin
          id="org.eclipse.equinox.launcher.cocoa.macosx.x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.300.v20150602-1417"
          fragment="true"
          unpack="false"/>
 
@@ -417,7 +417,7 @@
          id="org.eclipse.equinox.launcher.gtk.linux.x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.1.300.v20150602-1417"
          fragment="true"
          unpack="false"/>
 
@@ -425,7 +425,7 @@
          id="org.eclipse.equinox.security.macosx"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.100.200.v20130327-1442"
          fragment="true"
          unpack="false"/>
 
@@ -433,7 +433,7 @@
          id="org.eclipse.swt.cocoa.macosx.x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.104.0.v20150528-0211"
          fragment="true"
          unpack="false"/>
 
@@ -441,7 +441,7 @@
          id="org.eclipse.swt.gtk.linux.x86_64"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="3.104.0.v20150528-0211"
          fragment="true"
          unpack="false"/>
 
