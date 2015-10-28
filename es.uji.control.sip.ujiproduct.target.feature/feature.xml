@@ -357,86 +357,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.equinox.launcher.gtk.solaris.sparc"
-         os="solaris"
-         ws="gtk"
-         arch="sparc"
-         download-size="42"
-         install-size="109"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.solaris.x86"
-         os="solaris"
-         ws="gtk"
-         arch="x86"
-         download-size="36"
-         install-size="96"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.linux.ppc"
-         os="linux"
-         ws="gtk"
-         arch="ppc"
-         download-size="81"
-         install-size="202"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.linux.ppc64"
-         os="linux"
-         ws="gtk"
-         arch="ppc64"
-         download-size="84"
-         install-size="233"
-         version="1.0.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.linux.ppc64le"
-         os="linux"
-         ws="gtk"
-         arch="ppc64le"
-         download-size="80"
-         install-size="214"
-         version="1.0.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.linux.x86"
-         os="linux"
-         ws="gtk"
-         arch="x86"
-         download-size="76"
-         install-size="180"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.linux.s390x"
-         os="linux"
-         ws="gtk"
-         arch="s390x"
-         download-size="86"
-         install-size="228"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.linux.s390"
-         os="linux"
-         ws="gtk"
-         arch="s390"
-         download-size="84"
-         install-size="205"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
          id="org.eclipse.equinox.launcher.gtk.linux.x86_64"
          os="linux"
          ws="gtk"
@@ -447,61 +367,10 @@
          fragment="true"/>
 
    <plugin
-         id="org.eclipse.equinox.launcher.gtk.aix.ppc"
-         os="aix"
-         ws="gtk"
-         arch="ppc"
-         download-size="303"
-         install-size="1036"
-         version="1.1.200.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.aix.ppc64"
-         os="aix"
-         ws="gtk"
-         arch="ppc64"
-         download-size="309"
-         install-size="1085"
-         version="1.1.200.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.gtk.hpux.ia64"
-         os="hpux"
-         ws="gtk"
-         arch="ia64"
-         download-size="44"
-         install-size="157"
-         version="1.0.200.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
-         id="org.eclipse.equinox.launcher.win32.win32.x86"
-         os="win32"
-         ws="win32"
-         arch="x86"
-         download-size="26"
-         install-size="61"
-         version="1.1.300.v20150602-1417"
-         fragment="true"/>
-
-   <plugin
          id="org.eclipse.swt"
          download-size="18"
          install-size="39"
          version="3.104.0.v20150528-0211"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.win32.win32.x86"
-         os="win32"
-         ws="win32"
-         arch="x86"
-         download-size="2680"
-         install-size="5541"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
          unpack="false"/>
 
    <plugin
@@ -516,133 +385,12 @@
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.swt.gtk.linux.x86"
-         os="linux"
-         ws="gtk"
-         arch="x86"
-         download-size="2419"
-         install-size="5569"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.linux.s390x"
-         os="linux"
-         ws="gtk"
-         arch="s390x"
-         download-size="2455"
-         install-size="5981"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.linux.s390"
-         os="linux"
-         ws="gtk"
-         arch="s390"
-         download-size="2419"
-         install-size="5767"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.solaris.sparc"
-         os="solaris"
-         ws="gtk"
-         arch="sparc"
-         download-size="2336"
-         install-size="5347"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.solaris.x86"
-         os="solaris"
-         ws="gtk"
-         arch="x86"
-         download-size="2277"
-         install-size="5123"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.linux.ppc"
-         os="linux"
-         ws="gtk"
-         arch="ppc"
-         download-size="2392"
-         install-size="5813"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.linux.ppc64"
-         os="linux"
-         ws="gtk"
-         arch="ppc64"
-         download-size="2466"
-         install-size="6443"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.linux.ppc64le"
-         os="linux"
-         ws="gtk"
-         arch="ppc64le"
-         download-size="2433"
-         install-size="6186"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
          id="org.eclipse.swt.gtk.linux.x86_64"
          os="linux"
          ws="gtk"
          arch="x86_64"
          download-size="2567"
          install-size="6217"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.aix.ppc"
-         os="aix"
-         ws="gtk"
-         arch="ppc"
-         download-size="2291"
-         install-size="5699"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.aix.ppc64"
-         os="aix"
-         ws="gtk"
-         arch="ppc64"
-         download-size="2329"
-         install-size="5892"
-         version="3.104.0.v20150528-0211"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.swt.gtk.hpux.ia64"
-         os="hpux"
-         ws="gtk"
-         arch="ia64"
-         download-size="2354"
-         install-size="6200"
          version="3.104.0.v20150528-0211"
          fragment="true"
          unpack="false"/>
@@ -824,21 +572,6 @@
          download-size="0"
          install-size="0"
          version="1.1.200.v20130626-2037"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.equinox.security.win32.x86"
-         download-size="0"
-         install-size="0"
-         version="1.0.300.v20130327-1442"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.equinox.security.win32.x86.source"
-         download-size="0"
-         install-size="0"
-         version="1.0.300.v20130327-1442"
          unpack="false"/>
 
    <plugin
