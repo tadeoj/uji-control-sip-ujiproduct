@@ -819,4 +819,33 @@
          fragment="true"
          unpack="false"/>
 
+   <plugin
+         id="org.eclipse.equinox.security.ui.source"
+         download-size="0"
+         install-size="0"
+         version="1.1.200.v20130626-2037"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.security.win32.x86"
+         download-size="0"
+         install-size="0"
+         version="1.0.300.v20130327-1442"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.security.win32.x86.source"
+         download-size="0"
+         install-size="0"
+         version="1.0.300.v20130327-1442"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.security.win32.x86_64.source"
+         download-size="0"
+         install-size="0"
+         version="1.0.100.v20130327-1442"
+         unpack="false"/>
+
 </feature>
