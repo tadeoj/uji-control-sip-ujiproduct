@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="es.uji.control.sip.ui" uid="es.uji.control.sip.ui.uji.product" id="es.uji.control.sip.ui.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
+<product name="es.uji.control.sip.ui.uji" uid="es.uji.control.sip.ui.uji.product" id="es.uji.control.sip.ui.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
 
    <configIni use="default">
    </configIni>
@@ -15,7 +15,7 @@
 
    <windowImages/>
 
-   <launcher>
+   <launcher name="sip">
       <solaris/>
       <win useIco="false">
          <bmp/>
