@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="es.uji.control.sip.ui.uji" uid="es.uji.control.sip.ui.product" id="es.uji.control.sip.ui.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
+<product name="es.uji.control.sip.ui" uid="es.uji.control.sip.ui.product" id="es.uji.control.sip.ui.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
 
    <configIni use="default">
    </configIni>
@@ -15,6 +15,8 @@
 
    <windowImages/>
 
+   <splash
+      location="es.uji.control.sip.ui" />
    <launcher name="sip">
       <solaris/>
       <win useIco="false">
@@ -32,6 +34,12 @@
       <feature id="es.uji.control.sip.ujiproduct.feature" version="1.0.0.qualifier"/>
    </features>
 
+   <configurations>
+      <plugin id="org.eclipse.core.runtime" autoStart="true" startLevel="0" />
+      <plugin id="org.eclipse.equinox.common" autoStart="true" startLevel="2" />
+      <plugin id="org.eclipse.equinox.ds" autoStart="true" startLevel="2" />
+      <plugin id="org.eclipse.equinox.event" autoStart="true" startLevel="2" />
+   </configurations>
 
    <preferencesInfo>
       <targetfile overwrite="false"/>

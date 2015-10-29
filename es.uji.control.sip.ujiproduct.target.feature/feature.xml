@@ -328,13 +328,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.equinox.simpleconfigurator"
-         download-size="42"
-         install-size="78"
-         version="1.1.100.v20150423-1455"
-         unpack="false"/>
-
-   <plugin
          id="org.eclipse.osgi"
          download-size="1272"
          install-size="2692"
