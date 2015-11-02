@@ -6,7 +6,6 @@
     La llicència completa es pot descarregar de 
     https://joinup.ec.europa.eu/community/eupl/og_page/european-union-public-licence-eupl-v11
  -->
-
 <feature
       id="es.uji.control.sip.ujiproduct.target.feature"
       label="Feature"
@@ -580,6 +579,27 @@
          download-size="0"
          install-size="0"
          version="1.0.100.v20130327-1442"
+         unpack="false"/>
+
+   <plugin
+         id="javax.persistence"
+         download-size="0"
+         install-size="0"
+         version="2.1.0.v201304241213"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.persistence.core"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.persistence.jpa"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
          unpack="false"/>
 
 </feature>
