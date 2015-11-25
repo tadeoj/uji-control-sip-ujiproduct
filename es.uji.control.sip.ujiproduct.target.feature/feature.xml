@@ -592,14 +592,14 @@
          id="org.eclipse.persistence.core"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="2.6.0.v20150309-bf26070"
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.persistence.jpa"
+         id="oracle.jdbc.driver"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="1.0.0.201406031449"
          unpack="false"/>
 
 </feature>
