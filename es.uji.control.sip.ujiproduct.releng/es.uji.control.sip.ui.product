@@ -9,6 +9,8 @@
    <launcherArgs>
       <programArgs>-clearPersistedState -data @user.home -console
       </programArgs>
+      <vmArgs>-Declipse.log.level=WARNING
+      </vmArgs>
       <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts
       </vmArgsMac>
    </launcherArgs>
