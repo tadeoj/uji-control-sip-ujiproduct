@@ -7,7 +7,7 @@
    </configIni>
 
    <launcherArgs>
-      <programArgs>-clearPersistedState -data @user.home -console
+      <programArgs>-clearPersistedState -data @user.home
       </programArgs>
       <vmArgs>-Declipse.log.level=WARNING
       </vmArgs>
