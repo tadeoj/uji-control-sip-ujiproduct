@@ -1,4 +1,4 @@
-feature@es.uji.control.model.sip.feature=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.model.sip.feature
+feature@es.uji.control.model.sip.feature=GIT,tag=v20151214-1330,repo=git@github.com:tadeoj/uji-control-model.git,path=es.uji.control.model.sip.feature
 
-plugin@es.uji.control.model.sip=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.model.sip
-plugin@es.uji.control.model.sip.emf=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.model.sip.emf
+plugin@es.uji.control.model.sip=GIT,tag=v20151214-1330,repo=git@github.com:tadeoj/uji-control-model.git,path=es.uji.control.model.sip
+plugin@es.uji.control.model.sip.emf=GIT,tag=v20151214-1330,repo=git@github.com:tadeoj/uji-control-model.git,path=es.uji.control.model.sip.emf
