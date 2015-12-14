@@ -1,3 +1,4 @@
 feature@es.uji.control.sip.feature=GIT,tag=v20151029-0900,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.feature
 
 plugin@es.uji.control.sip.ui=GIT,tag=v20151029-0900,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.ui
+plugin@es.uji.control.sip.ui.preferences=GIT,tag=v20151029-0900,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.ui.preferences
