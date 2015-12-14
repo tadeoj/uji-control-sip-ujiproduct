@@ -1,5 +1,5 @@
-feature@es.uji.control.domain.ujioracle.osgi.feature=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.osgi.feature
-feature@es.uji.control.domain.ujioracle.ui.feature=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.ui.feature
+feature@es.uji.control.domain.ujioracle.osgi.feature=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.osgi.feature
+feature@es.uji.control.domain.ujioracle.ui.feature=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.ui.feature
 
-plugin@es.uji.control.domain.ujioracle=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle
-plugin@es.uji.control.domain.ujioracle.ui.preferences=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.ui.preferences
+plugin@es.uji.control.domain.ujioracle=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle
+plugin@es.uji.control.domain.ujioracle.ui.preferences=GIT,tag=v20151214-1230,repo=git@github.com:tadeoj/uji-control-domain-ujioracle.git,path=es.uji.control.domain.ujioracle.ui.preferences
