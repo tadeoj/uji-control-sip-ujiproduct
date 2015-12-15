@@ -3,10 +3,7 @@
 
 <product name="es.uji.control.sip.ui" uid="es.uji.control.sip.ui.product" id="es.uji.control.sip.ui.product" application="org.eclipse.e4.ui.workbench.swt.E4Application" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
 
-
    <configIni use="default">
-      <linux>/es.uji.control.sip.ujiproduct.releng/config.ini</linux>
-      <win32>/es.uji.control.sip.ujiproduct.releng/config.ini</win32>
    </configIni>
 
    <launcherArgs>
@@ -29,10 +26,8 @@
       </win>
    </launcher>
 
-
    <vm>
    </vm>
-
 
    <plugins>
    </plugins>
@@ -41,6 +36,12 @@
       <feature id="es.uji.control.sip.ujiproduct.feature" version="1.0.0.qualifier"/>
    </features>
 
+   <configurations>
+      <plugin id="org.eclipse.core.runtime" autoStart="true" startLevel="0" />
+      <plugin id="org.eclipse.equinox.common" autoStart="true" startLevel="2" />
+      <plugin id="org.eclipse.equinox.ds" autoStart="true" startLevel="2" />
+      <plugin id="org.eclipse.equinox.event" autoStart="true" startLevel="2" />
+   </configurations>
 
    <preferencesInfo>
       <targetfile overwrite="false"/>
