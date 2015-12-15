@@ -5,6 +5,7 @@
 
 
    <configIni use="default">
+      <linux>/es.uji.control.sip.ujiproduct.releng/config.ini</linux>
       <win32>/es.uji.control.sip.ujiproduct.releng/config.ini</win32>
    </configIni>
 
