@@ -1,0 +1,4 @@
+feature@es.uji.control.model.sip.feature=GIT,tag=v20151215-1000,repo=git@github.com:tadeoj/uji-control-model.git,path=es.uji.control.model.sip.feature
+
+plugin@es.uji.control.model.sip=GIT,tag=v20151215-1000,repo=git@github.com:tadeoj/uji-control-model.git,path=es.uji.control.model.sip
+plugin@es.uji.control.model.sip.emf=GIT,tag=v20151215-1000,repo=git@github.com:tadeoj/uji-control-model.git,path=es.uji.control.model.sip.emf
