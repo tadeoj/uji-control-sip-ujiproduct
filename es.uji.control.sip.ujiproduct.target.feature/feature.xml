@@ -580,11 +580,4 @@
          version="1.0.0.201406031449"
          unpack="false"/>
 
-   <plugin
-         id="es.uji.control.sip.ui"
-         download-size="0"
-         install-size="0"
-         version="1.0.0.qualifier"
-         unpack="false"/>
-
 </feature>
