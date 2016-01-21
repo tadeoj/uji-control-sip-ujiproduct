@@ -1,7 +1,7 @@
-feature@es.uji.control.controller.feature=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.feature
+feature@es.uji.control.controller.feature=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.feature
 
-plugin@es.uji.control.controller.core=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.core
-plugin@es.uji.control.controller.mifare=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.mifare
-plugin@es.uji.control.controller.device.obid.cprcore=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.device.obid.cprcore
-plugin@es.uji.control.controller.device.obid.cpr4030usb=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.device.obid.cpr4030usb
-plugin@es.uji.control.controller.device.obid.cpr5010eth=GIT,tag=v20151026-1245,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.device.obid.cpr5010eth
+plugin@es.uji.control.controller.core=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.core
+plugin@es.uji.control.controller.mifare=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.mifare
+plugin@es.uji.control.controller.device.obid.cprcore=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.device.obid.cprcore
+plugin@es.uji.control.controller.device.obid.cpr4030usb=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.device.obid.cpr4030usb
+plugin@es.uji.control.controller.device.obid.cpr5010eth=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-controller.git,path=es.uji.control.controller.device.obid.cpr5010eth
