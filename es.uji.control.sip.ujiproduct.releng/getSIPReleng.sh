@@ -5,7 +5,7 @@
 # La llicència completa es pot descarregar de 
 # https://joinup.ec.europa.eu/community/eupl/og_page/european-union-public-licence-eupl-v11
 #*******************************************************************************
-TAG=v20160121-0930
+TAG=v20160121-0955
 cd /$HOME/releng
 git clone git@github.com:tadeoj/uji-control-sip-ujiproduct.git
 cd uji-control-sip-ujiproduct
