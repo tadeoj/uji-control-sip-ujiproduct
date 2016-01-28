@@ -1,4 +1,4 @@
-feature@es.uji.control.domain.feature=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain.feature
+feature@es.uji.control.domain.feature=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain.feature
 
-plugin@es.uji.control.domain=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain
-plugin@es.uji.control.domain.provider=GIT,tag=v20160121-0930,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain.provider
+plugin@es.uji.control.domain=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain
+plugin@es.uji.control.domain.provider=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-domain.git,path=es.uji.control.domain.provider

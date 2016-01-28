@@ -1,4 +1,4 @@
-feature@es.uji.control.sip.feature=GIT,tag=v20160121-0955,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.feature
+feature@es.uji.control.sip.feature=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.feature
 
-plugin@es.uji.control.sip.ui=GIT,tag=v20160121-0955,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.ui
-plugin@es.uji.control.sip.ui.preferences=GIT,tag=v20160121-0955,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.ui.preferences
+plugin@es.uji.control.sip.ui=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.ui
+plugin@es.uji.control.sip.ui.preferences=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-sip.git,path=es.uji.control.sip.ui.preferences

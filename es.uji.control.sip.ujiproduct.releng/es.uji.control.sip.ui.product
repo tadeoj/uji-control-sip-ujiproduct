@@ -7,7 +7,7 @@
    </configIni>
 
    <launcherArgs>
-      <programArgs>-clearPersistedState -console -configuration=@user.dir -data=@user.dir
+      <programArgs>-clearPersistedState
       </programArgs>
       <vmArgs>-Declipse.log.level=WARNING
       </vmArgs>
@@ -23,12 +23,16 @@
       <linux icon="/es.uji.control.sip.ui/ujilogo.xpm"/>
       <solaris/>
       <win useIco="false">
-         <bmp/>
+         <bmp
+            winSmallHigh="/es.uji.control.sip.ui/icons/uji16.bmp"
+            winMediumHigh="/es.uji.control.sip.ui/icons/uji32.bmp"
+            winLargeHigh="/es.uji.control.sip.ui/icons/uji48.bmp"/>
       </win>
    </launcher>
 
    <vm>
       <linux include="false">org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8</linux>
+      <windows include="true">org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8</windows>
    </vm>
 
    <plugins>
