@@ -1,5 +1,5 @@
-feature@es.uji.control.commons.feature=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.feature
+feature@es.uji.control.commons.feature=GIT,tag=v20160427-1410,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.feature
 
-plugin@es.uji.control.commons.api=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.api
-plugin@es.uji.control.commons.diskcache=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.diskcache
-plugin@es.uji.control.commons.mail=GIT,tag=v20160128-1255,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.mail
+plugin@es.uji.control.commons.api=GIT,tag=v20160427-1410,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.api
+plugin@es.uji.control.commons.diskcache=GIT,tag=v20160427-1410,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.diskcache
+plugin@es.uji.control.commons.mail=GIT,tag=v20160427-1410,repo=git@github.com:tadeoj/uji-control-commons.git,path=es.uji.control.commons.mail
